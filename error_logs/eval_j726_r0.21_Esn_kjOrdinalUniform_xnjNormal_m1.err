@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/heatmaps/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m1_heatmap.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/traceplots/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m1_traceplot.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/results/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m1_results.json
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/logs/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m1.log
+2026-03-27 17:53:42,413 - INFO - Running conjugate priors for file: j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m1
+2026-03-27 17:53:42,428 - INFO - Number of biomarkers: 12
+2026-03-27 17:54:09,518 - INFO - Iteration 1000/10000, Acceptance Ratio: 4.20%, Log Likelihood: -49254.6347, 
+2026-03-27 17:54:20,340 - INFO - Iteration 2000/10000, Acceptance Ratio: 2.80%, Log Likelihood: -49244.8417, 
+2026-03-27 17:54:31,112 - INFO - Iteration 3000/10000, Acceptance Ratio: 1.87%, Log Likelihood: -49244.8417, 
+2026-03-27 17:54:42,070 - INFO - Iteration 4000/10000, Acceptance Ratio: 1.60%, Log Likelihood: -49246.1568, 
+2026-03-27 17:54:52,581 - INFO - Iteration 5000/10000, Acceptance Ratio: 1.52%, Log Likelihood: -49245.9741, 
+2026-03-27 17:55:02,852 - INFO - Iteration 6000/10000, Acceptance Ratio: 1.37%, Log Likelihood: -49244.8181, 
+2026-03-27 17:55:13,583 - INFO - Iteration 7000/10000, Acceptance Ratio: 1.17%, Log Likelihood: -49244.8181, 
+2026-03-27 17:55:24,245 - INFO - Iteration 8000/10000, Acceptance Ratio: 1.10%, Log Likelihood: -49242.8462, 
+2026-03-27 17:55:34,820 - INFO - Iteration 9000/10000, Acceptance Ratio: 1.02%, Log Likelihood: -49243.9031, 
+2026-03-27 17:55:45,475 - INFO - Iteration 10000/10000, Acceptance Ratio: 0.92%, Log Likelihood: -49243.9031, 
+2026-03-27 17:55:46,905 - INFO - Results saved to algo_results/conjugate_priors/results/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m1_results.json

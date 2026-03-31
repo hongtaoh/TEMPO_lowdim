@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/heatmaps/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m13_heatmap.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/traceplots/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m13_traceplot.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m13_results.json
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/logs/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m13.log
+2026-03-27 17:56:18,805 - INFO - Running conjugate priors for file: j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m13
+2026-03-27 17:56:18,813 - INFO - Number of biomarkers: 12
+2026-03-27 17:56:45,001 - INFO - Iteration 1000/10000, Acceptance Ratio: 7.60%, Log Likelihood: -49687.9404, 
+2026-03-27 17:56:55,779 - INFO - Iteration 2000/10000, Acceptance Ratio: 6.50%, Log Likelihood: -49688.9052, 
+2026-03-27 17:57:07,833 - INFO - Iteration 3000/10000, Acceptance Ratio: 5.07%, Log Likelihood: -49686.7419, 
+2026-03-27 17:57:19,118 - INFO - Iteration 4000/10000, Acceptance Ratio: 5.45%, Log Likelihood: -49685.6878, 
+2026-03-27 17:57:29,973 - INFO - Iteration 5000/10000, Acceptance Ratio: 4.72%, Log Likelihood: -49682.0849, 
+2026-03-27 17:57:41,491 - INFO - Iteration 6000/10000, Acceptance Ratio: 4.40%, Log Likelihood: -49684.3293, 
+2026-03-27 17:57:52,293 - INFO - Iteration 7000/10000, Acceptance Ratio: 3.77%, Log Likelihood: -49684.3293, 
+2026-03-27 17:58:03,700 - INFO - Iteration 8000/10000, Acceptance Ratio: 3.30%, Log Likelihood: -49684.3293, 
+2026-03-27 17:58:15,146 - INFO - Iteration 9000/10000, Acceptance Ratio: 2.93%, Log Likelihood: -49684.3293, 
+2026-03-27 17:58:26,629 - INFO - Iteration 10000/10000, Acceptance Ratio: 2.64%, Log Likelihood: -49684.3293, 
+2026-03-27 17:58:28,216 - INFO - Results saved to algo_results/conjugate_priors/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m13_results.json

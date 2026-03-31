@@ -1,0 +1,25 @@
+run_mlhc.sh started at Fri Mar 27 17:57:26 CDT 2026
+Running in directory: /var/lib/condor/execute/slot1/dir_1297395/scratch
+Running with arguments: j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m27
+Created logs directory at /var/lib/condor/execute/slot1/dir_1297395/scratch/logs
+Extracting environment from /staging/hhao9/env.tar.gz...
+Using extracted environment at .conda_env/bin/python
+=== ENVIRONMENT VALIDATION ===
+Python path: .conda_env/bin/python
+Python version: Python 3.11.14
+📦 Extracting /staging/hhao9/chil_lowdim_data.tar.gz...
+=== STARTING MAIN SCRIPT ===
+Current working directory: /var/lib/condor/execute/slot1/dir_1297395/scratch
+Processing with j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m27
+Loaded config:
+order with highest ll:  [ 6  2  1 12  3 10  5  4  9  8 11  7]
+true order indices:  [ 9  2  1 11  3 12  5  4  7  8 10  6]
+Results saved to algo_results/debm/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m27_results.json
+[debm], MAE: 1.49, Kendall's Tau: 0.545
+Results saved to algo_results/debm_gmm/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m27_results.json
+[debm_gmm], MAE: 1.41, Kendall's Tau: 0.424
+Results saved to algo_results/ucl_gmm/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m27_results.json
+[ucl_gmm], MAE: 1.45, Kendall's Tau: 0.455
+Results saved to algo_results/ucl_kde/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_sigmoid_m27_results.json
+[ucl_kde], MAE: 2.18, Kendall's Tau: 0.576
+✅ Script completed at Fri Mar 27 18:01:57 CDT 2026

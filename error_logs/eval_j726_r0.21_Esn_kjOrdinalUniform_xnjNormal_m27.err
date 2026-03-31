@@ -1,0 +1,19 @@
+mkdir -p failed for path /home/hhao9/.config/matplotlib: [Errno 13] Permission denied: '/home/hhao9'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-zpq94c9u because there was an issue with the default path (/home/hhao9/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/heatmaps/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m27_heatmap.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/traceplots/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m27_traceplot.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/results/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m27_results.json
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/logs/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m27.log
+2026-03-27 17:58:23,757 - INFO - Running conjugate priors for file: j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m27
+2026-03-27 17:58:23,767 - INFO - Number of biomarkers: 12
+2026-03-27 17:58:50,500 - INFO - Iteration 1000/10000, Acceptance Ratio: 5.80%, Log Likelihood: -53353.5456, 
+2026-03-27 17:59:01,411 - INFO - Iteration 2000/10000, Acceptance Ratio: 2.90%, Log Likelihood: -53353.5456, 
+2026-03-27 17:59:12,005 - INFO - Iteration 3000/10000, Acceptance Ratio: 1.93%, Log Likelihood: -53353.5456, 
+2026-03-27 17:59:22,915 - INFO - Iteration 4000/10000, Acceptance Ratio: 1.45%, Log Likelihood: -53353.5456, 
+2026-03-27 17:59:33,948 - INFO - Iteration 5000/10000, Acceptance Ratio: 1.28%, Log Likelihood: -53355.3078, 
+2026-03-27 17:59:44,721 - INFO - Iteration 6000/10000, Acceptance Ratio: 1.22%, Log Likelihood: -53352.8820, 
+2026-03-27 17:59:56,056 - INFO - Iteration 7000/10000, Acceptance Ratio: 1.10%, Log Likelihood: -53355.5966, 
+2026-03-27 18:00:06,741 - INFO - Iteration 8000/10000, Acceptance Ratio: 1.30%, Log Likelihood: -53231.2065, 
+2026-03-27 18:00:17,999 - INFO - Iteration 9000/10000, Acceptance Ratio: 1.26%, Log Likelihood: -53225.9319, 
+2026-03-27 18:00:28,515 - INFO - Iteration 10000/10000, Acceptance Ratio: 1.13%, Log Likelihood: -53225.9319, 
+2026-03-27 18:00:29,982 - INFO - Results saved to algo_results/conjugate_priors/results/j726_r0.21_Esn_kjOrdinalUniform_xnjNormal_m27_results.json

@@ -1,0 +1,34 @@
+N_VARIANTS: 50
+NStartpoints: 25
+Niterations: 1000
+N_MCMC_UCL: 10_0000
+N_MCMC: 10000
+N_SHUFFLE: 2
+BURN_IN: 500
+THINNING: 1
+GEN_SEED: 42 # made sure same as gen_seed_test on TEMPO
+ADNI_MCMC_SEED: 4790
+JS: [726]
+MCMC_SEED: 53
+RS: [0.21]
+N_BOOTSTRAP: 50
+
+# only used to build a dict in save_csv.py. not used anywhere else. 
+SA_EBM_ALGO_NAMES: ['conjugate_priors', 'mle', 'kde', 'em', 'hard_kmeans']
+OTHER_ALGO_NAMES: ['debm', 'debm_gmm', 'ucl_gmm', 'ucl_kde']
+
+# really to run
+SA_EBM_ALGO_NAMES_TO_USE: ['conjugate_priors',]
+OTHER_ALGO_NAMES_TO_USE: ['debm', 'debm_gmm', 'ucl_gmm', 'ucl_kde']
+
+OUTPUT_DIR: 'algo_results'
+EXPERIMENT_NAMES:
+  - sn_kjOrdinalDM_xnjNormal                  # Experiment 1: Ordinal k_j, Dirichlet-Multinomial stage prior, Normal biomarker distributions
+  - sn_kjOrdinalDM_xnjNonNormal               # Experiment 2: Ordinal k_j, Dirichlet-Multinomial stage prior, Non-Normal biomarker distributions
+  - sn_kjOrdinalUniform_xnjNormal             # Experiment 3: Ordinal k_j, Uniform stage prior, Normal biomarker distributions
+  - sn_kjOrdinalUniform_xnjNonNormal          # Experiment 4: Ordinal k_j, Uniform stage prior, Non-Normal biomarker distributions
+  - sn_kjContinuousBeta_sigmoid               # Experiment 5: Continuous k_j (Beta distribution), sigmoid measurement model
+  - sn_kjContinuousBeta_xnjNormal             # Experiment 6: Continuous k_j (Beta distribution), Normal biomarker distributions (EBM)
+  - sn_kjContinuousBeta_xnjNonNormal          # Experiment 7: Continuous k_j (Beta distribution), Non-Normal biomarker distributions (EBM)
+  - xiNearNormalWithNoise_kjContinuousBeta_sigmoid     # Experiment 8: Continuous xi (near-normal with noise), Continuous k_j (Beta), sigmoid measurement model
+  - xiNearNormalWithNoise_kjContinuousBeta_xnjNormal   # Experiment 9: Continuous xi (near-normal with noise), Continuous k_j (Beta), EBM framework with Normal biomarker distributions

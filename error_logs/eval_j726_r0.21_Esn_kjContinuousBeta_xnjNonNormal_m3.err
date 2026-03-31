@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/heatmaps/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m3_heatmap.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/traceplots/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m3_traceplot.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/results/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m3_results.json
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/logs/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m3.log
+2026-03-27 17:53:24,420 - INFO - Running conjugate priors for file: j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m3
+2026-03-27 17:53:24,428 - INFO - Number of biomarkers: 12
+2026-03-27 17:53:48,325 - INFO - Iteration 1000/10000, Acceptance Ratio: 4.40%, Log Likelihood: -50467.9649, 
+2026-03-27 17:53:58,845 - INFO - Iteration 2000/10000, Acceptance Ratio: 2.20%, Log Likelihood: -50467.9649, 
+2026-03-27 17:54:10,167 - INFO - Iteration 3000/10000, Acceptance Ratio: 1.53%, Log Likelihood: -50472.0381, 
+2026-03-27 17:54:21,629 - INFO - Iteration 4000/10000, Acceptance Ratio: 1.25%, Log Likelihood: -50468.8188, 
+2026-03-27 17:54:33,007 - INFO - Iteration 5000/10000, Acceptance Ratio: 1.04%, Log Likelihood: -50468.0111, 
+2026-03-27 17:54:44,395 - INFO - Iteration 6000/10000, Acceptance Ratio: 0.93%, Log Likelihood: -50468.8063, 
+2026-03-27 17:54:55,847 - INFO - Iteration 7000/10000, Acceptance Ratio: 0.87%, Log Likelihood: -50467.0336, 
+2026-03-27 17:55:03,931 - INFO - Iteration 8000/10000, Acceptance Ratio: 0.76%, Log Likelihood: -50467.0336, 
+2026-03-27 17:55:12,540 - INFO - Iteration 9000/10000, Acceptance Ratio: 0.68%, Log Likelihood: -50467.0336, 
+2026-03-27 17:55:20,719 - INFO - Iteration 10000/10000, Acceptance Ratio: 0.80%, Log Likelihood: -50470.3788, 
+2026-03-27 17:55:22,084 - INFO - Results saved to algo_results/conjugate_priors/results/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m3_results.json

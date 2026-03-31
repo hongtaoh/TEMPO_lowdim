@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/heatmaps/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m30_heatmap.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/traceplots/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m30_traceplot.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/results/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m30_results.json
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/logs/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m30.log
+2026-03-27 17:58:11,643 - INFO - Running conjugate priors for file: j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m30
+2026-03-27 17:58:11,654 - INFO - Number of biomarkers: 12
+2026-03-27 17:58:33,620 - INFO - Iteration 1000/10000, Acceptance Ratio: 5.00%, Log Likelihood: -53431.6132, 
+2026-03-27 17:58:40,701 - INFO - Iteration 2000/10000, Acceptance Ratio: 4.50%, Log Likelihood: -53412.5875, 
+2026-03-27 17:58:48,347 - INFO - Iteration 3000/10000, Acceptance Ratio: 3.27%, Log Likelihood: -53402.4392, 
+2026-03-27 17:58:55,509 - INFO - Iteration 4000/10000, Acceptance Ratio: 2.70%, Log Likelihood: -53404.3776, 
+2026-03-27 17:59:02,656 - INFO - Iteration 5000/10000, Acceptance Ratio: 2.58%, Log Likelihood: -53405.3558, 
+2026-03-27 17:59:09,771 - INFO - Iteration 6000/10000, Acceptance Ratio: 2.15%, Log Likelihood: -53405.3558, 
+2026-03-27 17:59:18,707 - INFO - Iteration 7000/10000, Acceptance Ratio: 1.84%, Log Likelihood: -53405.3558, 
+2026-03-27 17:59:29,784 - INFO - Iteration 8000/10000, Acceptance Ratio: 1.61%, Log Likelihood: -53405.3558, 
+2026-03-27 17:59:40,927 - INFO - Iteration 9000/10000, Acceptance Ratio: 1.43%, Log Likelihood: -53405.3558, 
+2026-03-27 17:59:52,012 - INFO - Iteration 10000/10000, Acceptance Ratio: 1.31%, Log Likelihood: -53409.3338, 
+2026-03-27 17:59:53,821 - INFO - Results saved to algo_results/conjugate_priors/results/j726_r0.21_Esn_kjContinuousBeta_xnjNonNormal_m30_results.json

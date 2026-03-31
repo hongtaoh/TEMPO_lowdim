@@ -1,0 +1,25 @@
+run_mlhc.sh started at Fri Mar 27 17:57:30 CDT 2026
+Running in directory: /var/lib/condor/execute/slot1/dir_3158745/scratch
+Running with arguments: j726_r0.21_Esn_kjContinuousBeta_xnjNormal_m23
+Created logs directory at /var/lib/condor/execute/slot1/dir_3158745/scratch/logs
+Extracting environment from /staging/hhao9/env.tar.gz...
+Using extracted environment at .conda_env/bin/python
+=== ENVIRONMENT VALIDATION ===
+Python path: .conda_env/bin/python
+Python version: Python 3.11.14
+📦 Extracting /staging/hhao9/chil_lowdim_data.tar.gz...
+=== STARTING MAIN SCRIPT ===
+Current working directory: /var/lib/condor/execute/slot1/dir_3158745/scratch
+Processing with j726_r0.21_Esn_kjContinuousBeta_xnjNormal_m23
+Loaded config:
+order with highest ll:  [ 8  1 12  9  3 10  2  6  5  7  4 11]
+true order indices:  [ 8  2 11 12  1  9  3  6  5  7  4 10]
+Results saved to algo_results/debm/results/j726_r0.21_Esn_kjContinuousBeta_xnjNormal_m23_results.json
+[debm], MAE: 0.68, Kendall's Tau: 0.697
+Results saved to algo_results/debm_gmm/results/j726_r0.21_Esn_kjContinuousBeta_xnjNormal_m23_results.json
+[debm_gmm], MAE: 0.64, Kendall's Tau: 0.697
+Results saved to algo_results/ucl_gmm/results/j726_r0.21_Esn_kjContinuousBeta_xnjNormal_m23_results.json
+[ucl_gmm], MAE: 0.88, Kendall's Tau: 0.576
+Results saved to algo_results/ucl_kde/results/j726_r0.21_Esn_kjContinuousBeta_xnjNormal_m23_results.json
+[ucl_kde], MAE: 1.32, Kendall's Tau: 0.606
+✅ Script completed at Fri Mar 27 18:02:14 CDT 2026

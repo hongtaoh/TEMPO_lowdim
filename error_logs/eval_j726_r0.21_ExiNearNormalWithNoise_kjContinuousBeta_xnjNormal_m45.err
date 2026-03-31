@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/heatmaps/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_xnjNormal_m45_heatmap.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/traceplots/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_xnjNormal_m45_traceplot.png
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_xnjNormal_m45_results.json
+WARNING:root:File does not exist, skipping removal: algo_results/conjugate_priors/logs/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_xnjNormal_m45.log
+2026-03-27 18:01:08,432 - INFO - Running conjugate priors for file: j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_xnjNormal_m45
+2026-03-27 18:01:08,451 - INFO - Number of biomarkers: 12
+2026-03-27 18:01:36,857 - INFO - Iteration 1000/10000, Acceptance Ratio: 3.30%, Log Likelihood: -50385.0138, 
+2026-03-27 18:01:48,759 - INFO - Iteration 2000/10000, Acceptance Ratio: 2.15%, Log Likelihood: -50365.8658, 
+2026-03-27 18:02:02,464 - INFO - Iteration 3000/10000, Acceptance Ratio: 1.50%, Log Likelihood: -50367.6654, 
+2026-03-27 18:02:14,439 - INFO - Iteration 4000/10000, Acceptance Ratio: 1.27%, Log Likelihood: -50360.4080, 
+2026-03-27 18:02:27,141 - INFO - Iteration 5000/10000, Acceptance Ratio: 1.02%, Log Likelihood: -50360.4080, 
+2026-03-27 18:02:40,706 - INFO - Iteration 6000/10000, Acceptance Ratio: 0.90%, Log Likelihood: -50360.9690, 
+2026-03-27 18:02:53,190 - INFO - Iteration 7000/10000, Acceptance Ratio: 0.77%, Log Likelihood: -50360.9690, 
+2026-03-27 18:03:06,933 - INFO - Iteration 8000/10000, Acceptance Ratio: 0.68%, Log Likelihood: -50360.9690, 
+2026-03-27 18:03:20,429 - INFO - Iteration 9000/10000, Acceptance Ratio: 0.70%, Log Likelihood: -50361.0871, 
+2026-03-27 18:03:37,290 - INFO - Iteration 10000/10000, Acceptance Ratio: 1.05%, Log Likelihood: -50356.4600, 
+2026-03-27 18:03:40,125 - INFO - Results saved to algo_results/conjugate_priors/results/j726_r0.21_ExiNearNormalWithNoise_kjContinuousBeta_xnjNormal_m45_results.json
